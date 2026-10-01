@@ -2,8 +2,6 @@
 
 An end-to-end data analytics project that answers one business question: **should a publisher convert low-demand free apps to paid, and which categories are safe candidates?**
 
-![Google Play Store](images/playstore.png)
-
 ## Result in Brief
 
 **Answer: Conditional Yes, for 4 categories.** Freemium conversion is recommended only for **News & Magazines, Art & Design, Education, and Entertainment**, where existing paid apps already outperform free apps in demand. **Medical** needs sentiment fixes first. **Finance, Social, and Parenting** should stay free. Converting the identified low-demand free apps in the first three categories is estimated at roughly **$16.7M to $50.1M** in additional revenue (5% to 15% retention).
